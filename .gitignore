@@ -73,3 +73,9 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Prefabs/MechaPrefabs/Textures/ScifiMechAmmunition/ScifiMechAmmunitionPSDSourcefile.rar
+Assets/Prefabs/MechaPrefabs/Textures/ScifiMechAmmunition/ScifiMechAmmunitionPSDSourcefile.rar.meta
+*.meta
+Assets/Prefabs/MechaPrefabs/Textures/MediumMechStriker/MediumMechStrikerPSDSourcefile.rar
+Assets/Prefabs/MechaPrefabs/Textures/ScifiMechDecals/ScifiMechDecals.rar
+*.rar
